@@ -55,7 +55,13 @@ function logMessage(message: string) : void {
 
 logMessage("Logging Example! ");
 
-
+//To run a ts file:
+// npm install -g typescript
+// npm install -g ts-node
+// tsc -v
+// ts-node -v
+// tsc DataTypes.ts
+// node DataTypes.js
 
 
 

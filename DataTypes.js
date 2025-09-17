@@ -43,3 +43,8 @@ console.log("Enum: ", c, Color[2]);
 var randomValue = "Hello";
 randomValue = 25;
 console.log("Any: ", randomValue);
+//9.  function
+function logMessage(message) {
+    console.log("Void Function: ", message);
+}
+logMessage("Logging Example! ");
